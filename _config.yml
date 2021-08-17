@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "My CV", file: "files/MyCV.pdf"}
+  - {title: "My CV", file: "/files/MyCV.pdf"}
   - {title: "Work Experience"}
   - {title: "Research Experience"}
   - {title: "Personal Blog", url: "https://nhavtdo.wordpress.com/"} 
