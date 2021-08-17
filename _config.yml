@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "CV", file: "MyCV.pdf"}
+  - {title: "CV", url: "https://nhado401.github.io/files/MyCV.pdf"}
   - {title: "Experience", file: "Experience.md"}
   - {title: "Research", file: "Research.md"}
 
