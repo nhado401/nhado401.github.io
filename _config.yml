@@ -19,11 +19,11 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "My CV", url: "https://nhado401.github.io/files/MyCV.pdf}
   - {title: "Work Experience"}
   - {title: "Research Experience", file: "Research Experience.md"}
-  - {title: "Personal Blog", url: "https://nhavtdo.wordpress.com/"} 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, url: "mailto:nhado401@gmail.com"}
   - {title: Github, url: "https://github.com/nhado401"}
+  - {title: "Personal Blog", url: "https://nhavtdo.wordpress.com/"} 
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
