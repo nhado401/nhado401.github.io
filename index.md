@@ -3,7 +3,7 @@ layout: page
 title: "Bio"
 ---
 
-![Avatar](images/Avatar.jpg)
+<img src="https://github.com/nhado401.github.io/images/Avatar.jpg" width="48">
 
 Hi there! My name is Nha Do and I am currently a student in the Department of Electrical and Computer Engineering at UCLA.
 
