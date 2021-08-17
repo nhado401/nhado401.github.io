@@ -21,9 +21,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Research", file: "Research.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, url: "mailto:nhado401@gmail.com"}
-  - {title: Github, url: "https://github.com/nhado401"}
-  - {title: "Blog", url: "https://nhavtdo.wordpress.com/"} 
+  - {title: Mail, icon: envelope-open, url: "mailto:nhado401@gmail.com"}
+  - {title: Github, icon: github, url: "https://github.com/nhado401"}
+  - {title: "Blog", icon: wordpress, url: "https://nhavtdo.wordpress.com/"} 
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
