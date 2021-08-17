@@ -3,9 +3,7 @@ layout: page
 title: "Bio"
 ---
 
-<p align="center">
-  <img src="images/Avatar.jpg" width="300" height="300">
-</p>
+<img src="images/Avatar.jpg" width="324" height="324">
 
 Hi there! My name is Nha Do and I am currently a student in the Department of Electrical and Computer Engineering at UCLA.
 
