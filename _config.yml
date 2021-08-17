@@ -22,6 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, url: "mailto:nhado401@gmail.com"}
+  - {title: LinkedIn, url: "https://www.linkedin.com/in/nhado401/"}
   - {title: Github, url: "https://github.com/nhado401"}
   - {title: "Blog", url: "https://nhavtdo.wordpress.com/"} 
 
