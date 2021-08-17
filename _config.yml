@@ -11,12 +11,12 @@ date_format: "%B %d, %Y"
 show_excerpts: true        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
 show_sidebar: true        # show a sidebar instead of the usual header
-minimal: true             # use a dark header
+minimal: false             # use a dark header
 
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "My CV", url: "https://nhado401.github.io/files/MyCV.pdf}
+  - {title: "My CV", file: "files/MyCV.pdf}
   - {title: "Work Experience"}
   - {title: "Research Experience", file: "Research Experience.md"}
 
