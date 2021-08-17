@@ -16,12 +16,12 @@ minimal: true             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "My CV", icon: sticky-note-o, url: "https://nhado401.github.io/files/MyCV.pdf}
   - {title: "Work Experience"}
   - {title: "Research Experience"}
   - {title: "Personal Blog", url: "https://nhavtdo.wordpress.com/"} 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+  - {title: "My CV", icon: sticky-note-o, url: "https://nhado401.github.io/files/MyCV.pdf}
   - {title: Mail, icon: envelope, url: "mailto:nhado401@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/nhado401"}
 
