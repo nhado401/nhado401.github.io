@@ -16,14 +16,14 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "My CV", file: "files/MyCV.pdf}
-  - {title: "Work Experience"}
+  - {title: "CV", file: "files/MyCV.pdf}
+  - {title: "Experience"}
   - {title: "Research", file: "Research.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, url: "mailto:nhado401@gmail.com"}
   - {title: Github, url: "https://github.com/nhado401"}
-  - {title: "Personal Blog", url: "https://nhavtdo.wordpress.com/"} 
+  - {title: "Blog", url: "https://nhavtdo.wordpress.com/"} 
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
