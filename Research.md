@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Research Experience"
+title: "Research"
 ---
 
 {% if site.show_excerpts %}
