@@ -2,6 +2,7 @@
 layout: default
 title: "Bio"
 ---
+
 Hi there! My name is Nha Do and I am currently a student in the Department of Electrical and Computer Engineering at UCLA.
 
 I’m interested in Digital Signal Processing, Machine Learning, Deep Learning, Data Analysis and Computer Vision.
