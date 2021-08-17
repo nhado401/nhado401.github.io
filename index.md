@@ -15,4 +15,4 @@ My current project is to focus on training End-to-end model using Automatic Spee
 
 In my free time, I enjoy writing and playing sport. I have my personal blog, which has been written mostly in Vietnamese, where I share stories about my career and social life also. I am planning to have English version soon. You can find the link to my blog on the bottom of this page or check it out [here](https://nhavtdo.wordpress.com/)
 
-You can also find my resume [here](https://github.com/nhado401/nhado401.github.io/blob/master/files/MyCV.pdf)
+You can also find my resume [here](https://github.com/nhado401/nhado401.github.io/files/MyCV.pdf)
