@@ -1,4 +1,4 @@
-title: "Hello World!"
+title: "Nha Do"
 author: "Nha Do"
 description: "University of California, Los Angeles (UCLA)"
 permalink: /:title/
@@ -10,13 +10,12 @@ date_format: "%B %d, %Y"
 
 show_excerpts: true        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
-show_sidebar: true        # show a sidebar instead of the usual header
+show_sidebar: false        # show a sidebar instead of the usual header
 minimal: false             # use a dark header
 
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "Nha Do", file: "index.md"}
   - {title: "CV", file: "files/MyCV.pdf"}
   - {title: "Experience"}
   - {title: "Research", file: "Research.md"}
