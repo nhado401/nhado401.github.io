@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Bio"
+title: "About Me"
 ---
 
 <p align="center">
