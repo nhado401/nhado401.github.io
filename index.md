@@ -1,6 +1,6 @@
 ---
-layout: post
-title: "Hello World!!!"
+layout: page
+title: "Hello World!"
 ---
 
 <p align="center">
