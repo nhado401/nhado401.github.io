@@ -11,7 +11,7 @@ Hi there! My name is Nha Do and I am currently a student in the Department of El
 
 I am interested in Digital Signal Processing, Machine Learning, Deep Learning, Data Analysis and their applications in Speech Recognition and Computer Vision.
 
-My current project is building a deep learning model for Plant Pathology to accurately classify a given image into different diseased category or a healthy leaf.
+My current project is to build a deep learning model for Plant Pathology to accurately classify a given image into different diseased category or a healthy leaf.
 
 In summer 2021, I worked as an Undergraduate Research Assistant at the Speech Processing and Auditory Perception Laboratory under the supervision of Professor Abeer Alwan and mentored by Ph.D student Alexander Johnson, focusing on training End-to-end model using Automatic Speech Recognition (ASR) with Transformer.
 
