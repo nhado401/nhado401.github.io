@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 ---
 
 ## Undergraduate Research (June 2021 - September 2021)
