@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Research Experience
 ---
 
 ## Undergraduate Research (June 2021 - September 2021)
