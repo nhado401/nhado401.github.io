@@ -6,6 +6,7 @@ title: "Hello World!"
 <p align="center">
 <img src="images/Avatar.jpg" width="380" height="360">
 </p>
+
 Hi there! My name is Nha Do and I am currently a student in the Department of Electrical and Computer Engineering at UCLA.
 
 I am interested in Digital Signal Processing, Machine Learning, Deep Learning, Data Analysis and their applications in Speech Recognition and Computer Vision.
