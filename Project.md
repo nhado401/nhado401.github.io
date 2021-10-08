@@ -1,11 +1,13 @@
 ---
 layout: page
 title: "Project"
+categories: media
 ---
 
 ## Plant Pathology - Machine Learning on Microcontroller STM32 H743ZI2 (In Progress)
 
 Create a deep learning model to classify diseases in apple trees and embed the weights of the pre-trained model into Microcontroller STM32 H7 board.
+
 
 ## Spam Email Classification (2021)
 
@@ -16,6 +18,7 @@ Source of Dataset: Spam Assassin Public Corpus.
 Built a model to classify an email to be spam or non-spam based on Naiive Bayes Theorem.
 
 Accuracy: 97%
+
 
 ## Fire Warning Device (2016)
 
