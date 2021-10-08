@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Project"
-categories: media
 ---
 
 ## Plant Pathology - Machine Learning on Microcontroller STM32 H743ZI2 (In Progress)
