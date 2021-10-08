@@ -3,7 +3,7 @@ layout: page
 title: "Project"
 ---
 
-## Plant Pathology - Machine Learning on Microcontroller STM32 H743ZI2 (In Progress)
+## Plant Pathology - Machine Learning on Embedded System (In Progress)
 
 Create a deep learning model to classify diseases in apple trees and embed the weights of the pre-trained model into Microcontroller STM32 H7 board.
 
