@@ -5,7 +5,7 @@ title: "Project"
 
 ## Plant Pathology - Machine Learning on Embedded System (In Progress)
 
-Create a deep learning model to classify diseases in apple trees and embed the weights of the pre-trained model into Microcontroller STM32 H7 board.
+Create a deep learning model to classify diseases in apple trees and embed the weights of the pre-trained model into Microcontroller STM32 H743ZI2 board.
 
 
 ## Spam Email Classification (2021)
