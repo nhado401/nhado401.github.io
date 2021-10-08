@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "My CV", url: "https://nhado401.github.io/files/MyCV.pdf"}
-  - {title: "Experience", file: "Experience.md"}
+  - {title: "Project", file: "Project.md"}
   - {title: "Research", file: "Research.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
