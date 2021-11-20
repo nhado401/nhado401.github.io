@@ -5,7 +5,7 @@ title: Research Experience
 
 ## Undergraduate Research (June 2021 - September 2021)
 
-Research Assistant - UCLA Speech Processing and Auditory Perception Lab.
+Undergraduate Research Assistant - UCLA Speech Processing and Auditory Perception Lab.
 
 Advisor: Professor Abeer Alwan
 
