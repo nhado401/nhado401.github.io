@@ -7,7 +7,13 @@ title: "Project"
 
 Create a deep learning model to classify diseases in apple trees on Microcontroller STM32 H743ZI2 board.
 
-## Handwritten Digits Recognition |Python / C - STM32 H743ZI2 (2021)
+## Handwritten Digits Recognition (2021)
+
+Programming Language: Python, C
+
+Microcontroller: STM32 H743ZI2
+
+Source of Dataset: MNIST
 
 Created and trained a machine learning model to classify handwritten digits in Python.
 
@@ -23,6 +29,8 @@ Programming Language: Python (Jupyter Notebook)
 Source of Dataset: Spam Assassin Public Corpus.
 
 Built a model to classify an email to be spam or non-spam based on Naiive Bayes Theorem.
+
+Optimized the model by using Scikit-learn library
 
 Accuracy: 97%
 
