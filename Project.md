@@ -5,7 +5,15 @@ title: "Project"
 
 ## Plant Pathology - Machine Learning on Embedded System (In Progress)
 
-Create a deep learning model to classify diseases in apple trees and embed the weights of the pre-trained model into Microcontroller STM32 H743ZI2 board.
+Create a deep learning model to classify diseases in apple trees on Microcontroller STM32 H743ZI2 board.
+
+## Handwritten Digits Recognition |Python / C - STM32 H743ZI2 (2021)
+
+Created and trained a machine learning model to classify handwritten digits in Python.
+
+Designed and developed the Convolutional layer, Max pooling layer and Dense layer in C.
+
+Embedded the weights and biases and tested the model on Microcontroller STM32 H743ZI2 board.
 
 
 ## Spam Email Classification (2021)
