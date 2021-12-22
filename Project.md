@@ -7,13 +7,7 @@ title: "Project"
 
 Create a deep learning model to classify diseases in apple trees on Microcontroller STM32 H743ZI2 board.
 
-## Handwritten Digits Recognition (2021)
-
-Programming Language: Python, C
-
-Microcontroller: STM32 H743ZI2
-
-Source of Dataset: MNIST
+## Handwritten Digits Recognition (2021) - Python, C - STM32 H743ZI2
 
 Created and trained a machine learning model to classify handwritten digits in Python.
 
@@ -22,11 +16,7 @@ Designed and developed the Convolutional layer, Max pooling layer and Dense laye
 Embedded the weights and biases and tested the model on Microcontroller STM32 H743ZI2 board.
 
 
-## Spam Email Classification (2021)
-
-Programming Language: Python (Jupyter Notebook)
-
-Source of Dataset: Spam Assassin Public Corpus.
+## Spam Email Classification (2021) - Python
 
 Built a model to classify an email to be spam or non-spam based on Naiive Bayes Theorem.
 
@@ -34,10 +24,13 @@ Optimized the model by using Scikit-learn library
 
 Accuracy: 97%
 
+## House Prices Prediction (2021) - Python
 
-## Fire Warning Device (2016)
+Extracted, analyzed and visualized the dataset.
+Developed a data transformation to optimize the Linear Regression Model.
+Built a valuation tool for the prices prediction.
 
-Programming Language: C
+## Fire Warning Device (2016) - C
 
 Developed an electronic device using Micro-controller 8051
 
