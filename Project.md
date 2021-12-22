@@ -15,7 +15,6 @@ Designed and developed the Convolutional layer, Max pooling layer and Dense laye
 
 Embedded the weights and biases and tested the model on Microcontroller STM32 H743ZI2 board.
 
-
 ## Spam Email Classification (2021) - Python
 
 Built a model to classify an email to be spam or non-spam based on Naiive Bayes Theorem.
@@ -27,7 +26,9 @@ Accuracy: 97%
 ## House Prices Prediction (2021) - Python
 
 Extracted, analyzed and visualized the dataset.
+
 Developed a data transformation to optimize the Linear Regression Model.
+
 Built a valuation tool for the prices prediction.
 
 ## Fire Warning Device (2016) - C
