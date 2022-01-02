@@ -3,4 +3,4 @@ layout: post
 title: My Notes
 ---
 
-Under Construction
+[Linear Regression](https://nhado401.github.io/files/Linear_Regression.pdf).
