@@ -3,17 +3,21 @@ layout: page
 title: "Project"
 ---
 
-## Plant Pathology - Machine Learning on Embedded System (In Progress)
+## Diseased Leaf Detection and Classification (2022) - Python
 
-Create a deep learning model to classify diseases in apple trees on Microcontroller STM32 H743ZI2 board.
+Collected, extracted and analyzed data using Pandas, NumPy libraries.
+
+Created and developed an Ensemble Learning of EfficientNetB7 and Exception model.
+
+Enhanced the model accuracy by taking the average values to achieve 96%.
 
 ## Handwritten Digits Recognition (2021) - Python, C - STM32 H743ZI2
 
-Created and trained a machine learning model to classify handwritten digits in Python.
+Developed a CNN model to classify handwritten digits in Python.
 
-Designed and developed the Convolutional layer, Max pooling layer and Dense layer in C.
+Designed and optimized the Convolutional layer, Max pooling layer and Dense layer in C.
 
-Embedded the weights and biases and tested the model on Microcontroller STM32 H743ZI2 board.
+Deployed the weights and biases of the pre-trained model into the Microcontroller STM32 H743ZI2 board.
 
 ## Spam Email Classification (2021) - Python
 
