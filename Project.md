@@ -3,6 +3,14 @@ layout: page
 title: "Project"
 ---
 
+## Expanded Diseased Leaf Detection Project on STM32 Embedded Machine Learning System (2022) - Python, C
+
+Proposed an effective apporoach to fit the dataset and enhance model's accuracy under 1MB memory constraints.
+
+Optimized the weights and biases when deploying the model in embedded system.
+
+Implemented successfully the 2D CNNs with high accuracy.
+
 ## Diseased Leaf Detection and Classification (2022) - Python
 
 Collected, extracted and analyzed data using Pandas, NumPy libraries.
