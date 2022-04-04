@@ -9,7 +9,7 @@ title: "Hello World!"
 
 Hi there! My name is Nha Do and I am currently a student in the Department of Electrical and Computer Engineering at UCLA.
 
-I am interested in Digital Signal Processing, Machine Learning, Deep Learning, Data Analysis and their applications in Image Classification and Object Detection.
+I am interested in Digital Signal Processing, Data Analysis, Applied Machine Learning and Computer Vision.
 
 My current project is to expand the Convolutional Neural Networks (CNN) and deploy it on STM32 Nucleo H7 microntroncoller (which has only 1MB memory constraint) for detecting and classifying given input images into different diseased category.
 
