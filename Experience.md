@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Experience
+title: Experiences
 ---
 
 ## AT&T Research Lab (June 2022 - September 2022) - Network & Data Engineer Intern
