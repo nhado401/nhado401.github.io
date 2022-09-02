@@ -9,7 +9,7 @@ title: Experiences
 
 - Transitioning multiple data sources using SQL and PySpark.
 
-- Created a new landing page to store all of the new Slate reports.
+- Created a new landing page to store the Slate reports.
 
 - Developed a Machine Learning-based software solution to evaluate car accident index.
 
