@@ -5,9 +5,9 @@ title: Experiences
 
 ## AT&T Research Lab (June 2022 - September 2022) - Network & Data Engineer Intern
 
-- Creating business ready data sets and custom reports within DEEP/ Palantir Platform.
+- Created business ready data sets and custom reports within DEEP/ Palantir Platform.
 
-- Transitioning multiple data sources using SQL and PySpark.
+- Transitioned multiple data sources using SQL and PySpark.
 
 - Created a new landing page to centralize all Slate reports for easier access.
 
