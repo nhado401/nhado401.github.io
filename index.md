@@ -11,7 +11,7 @@ Hi there! My name is Nha Do and I am currently a student in the Department of El
 
 I am interested in Digital Signal Processing, Data Analysis, Applied Machine Learning and Computer Vision.
 
-I'm currently doing the internship as a Network Engineer at AT&T Lab in Middletown, New Jersey.
+I spent the summer of 2022 with AT&T Labs in Middletown, New Jersey where I worked as a Network and Data Engineer in a Big Data team.
 
 In summer 2021, I worked as an Undergraduate Research Assistant at the Speech Processing and Auditory Perception Laboratory under the supervision of Professor Abeer Alwan and mentored by Ph.D student Alexander Johnson, focusing on training and evaluating the End-to-end model using Automatic Speech Recognition (ASR) with Transformer.
 
