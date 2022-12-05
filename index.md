@@ -7,7 +7,7 @@ title: "Hello World!"
 <img src="images/LinkedIn.jpg" width="220" height="220">
 </p>
 
-Hi there! My name is Nha Do and I am currently a student in the Department of Electrical and Computer Engineering at UCLA.
+Hi there! My name is Nha Do and I am currently a student in the Department of Electrical and Computer Engineering at UCLA. I am also an incoming Data Analyst at AT&T in Elsegundo, California starting in January 2023.
 
 I am interested in Digital Signal Processing, Data Analysis, Applied Machine Learning and Computer Vision.
 
