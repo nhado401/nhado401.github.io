@@ -4,7 +4,7 @@ title: "Hello World!"
 ---
 
 <p align="center">
-<img src="images/Avatar.JPG" width="400" height="360">
+<img src="images/LinkedIn.jpg" width="360" height="360">
 </p>
 
 Hi there! My name is Nha Do and I am currently a student in the Department of Electrical and Computer Engineering at UCLA.
