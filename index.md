@@ -8,9 +8,7 @@ title: "Hello World!"
 <img src="images/LinkedIn-circle.png" width="220" height="220">
 </p>
 
-Hi there! My name is Nha Do and I am a recent graduate of University of California, Los Angeles (UCLA), born and raised in Vietnam before moving to Los Angeles. I am also an incoming Data Analyst at AT&T in El Segundo, California starting in January 2023.
-
-I am interested in Digital Signal Processing, Data Analysis, Applied Machine Learning and Computer Vision.
+Hi there! My name is Nha Do. I graduated from University of California, Los Angeles (UCLA) with Electrical Engineering major, specializing in Digital Signal Processing, Data Analysis and Applied Machine Learning. Born and raised in Vietnam before moving to Los Angeles. I am currently working as a Data Analyst at AT&T in El Segundo, California.
 
 I spent the summer of 2022 with AT&T Labs in Middletown, New Jersey where I worked as a Network and Data Engineer Intern in Big Data team.
 
