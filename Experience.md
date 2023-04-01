@@ -3,6 +3,8 @@ layout: post
 title: Experiences
 ---
 
+## AT&T Chief Data Office (January 2023 - Present) - Data Analyst
+
 ## AT&T Research Lab (June 2022 - September 2022) - Network & Data Engineer Intern
 
 - Created business ready data sets and custom reports within DEEP/ Palantir Platform.
