@@ -10,7 +10,7 @@ title: "Hello World!"
 
 Hi there! My name is Nha Do. I graduated from University of California, Los Angeles (UCLA) with Electrical Engineering major, specializing in Digital Signal Processing, Data Analytics and Applied Machine Learning. Born and raised in Vietnam before moving to Los Angeles. 
 
-I am currently working as a Data Analyst at AT&T in El Segundo, California.
+I am currently a Big Data Engineer working at AT&T Headquarter Chief Data Office in Dallas to create and design data products.
 
 I spent the summer of 2022 with AT&T Labs in Middletown, New Jersey where I worked as a Network and Data Engineer Intern in Big Data team.
 
