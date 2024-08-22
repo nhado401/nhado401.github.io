@@ -3,7 +3,7 @@ layout: post
 title: Experiences
 ---
 
-## AT&T (January 2023 - Present) - Data Analyst
+## AT&T (January 2023 - Present) - Big Data Engineer
 
 ## AT&T Research Lab (June 2022 - September 2022) - Network & Data Engineer Intern
 
