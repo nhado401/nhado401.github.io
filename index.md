@@ -12,7 +12,7 @@ Hi there! My name is Nha Do. I graduated from University of California, Los Ange
 
 I am currently a Data Engineer working at AT&T Chief Data Office in Plano/ Dallas as a data architect to provide scalable, reliable, secured and curated data solutions to bring AT&T data to the world-class level.
 
-I spent the summer of 2022 with AT&T Labs in Middletown, New Jersey where I worked as a Network and Data Engineer Intern in Big Data team.
+I spent summer of 2022 with AT&T Labs in Middletown, New Jersey where I worked as a Network and Data Engineer Intern in Big Data team.
 
 In summer 2021, I worked as an Undergraduate Research Assistant at the UCLA Speech Processing and Auditory Perception Laboratory focusing on training and evaluating the End-to-end model using Automatic Speech Recognition (ASR) with Transformer to analyze and understand children dialect.
 
