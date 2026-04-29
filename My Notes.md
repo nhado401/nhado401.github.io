@@ -7,6 +7,4 @@ title: My Notes
 
 [Embedded Machine Learning System](https://nhado401.github.io/files/Embedded_ML_System.pdf).
 
-[Cognitive Stock Analysis Architecture using Large Language Model](https://nhado401.github.io/files/TermProject_Final_NhaDo.pdf).
-
 [Leetcode Problem](https://nhado401.github.io/files/Leetcode.pdf). (In Progress)
